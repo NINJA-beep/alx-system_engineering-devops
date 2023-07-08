@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-chown --from=guillaume betty hello
-=======
-chown -from=guillaume betty hello
->>>>>>> 11eb99bb9e6d1a316a853fa875f451bc5b49153e
+chown if guillaume hello betty
