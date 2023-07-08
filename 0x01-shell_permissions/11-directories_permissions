@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod u+x,g+x,o+x * 
+=======
+chmod -R ugo+X .X
+>>>>>>> 11eb99bb9e6d1a316a853fa875f451bc5b49153e
